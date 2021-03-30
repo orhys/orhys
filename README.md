@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @orhys
+- 👋 Hi, I’m @orhys
 - 👀 I’m interested in modern web technologies
 - 🌱 I’m currently learning three.js
 - 💞️ I’m looking to collaborate on (confidential)
